@@ -54,6 +54,15 @@ Principal
 rate of interest
 number of time interest applied per year
 
+###4. python terminal games(multi3games)
+It is a gaming which i made by myself without anyone help.
+It contains total 3 games
+1> rock,paper and scissor
+2> Gk questions and answers
+3> completing the stories 
+
+
+
 
 ## 🧑‍💻 About Me
 
